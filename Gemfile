@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 gem 'nokogiri'
 gem 'rack', '~> 2.0.1'
 gem 'rspec'
+gem 'wdm'
 
 git_source(:github) {|repo_name| "https://https://github.com/MahaveerSatra/mahaveersatra.github.io" }
 
