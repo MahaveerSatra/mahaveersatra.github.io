@@ -1,6 +1,6 @@
 logo: # add logo name
 title: Mahaveer Satra
-description: Hie there! # this means to ignore newlines until "baseurl:"
+description: Hie there! Mahaveer Satra here, mechanical engineer artist soccer music and business fanatic # this means to ignore newlines until "baseurl:"
   # Write an awesome description for your new site here. You can edit this
   # line in _config.yml. It will appear in your document head meta (for
   # Google search results) and in your feed.xml site description.
@@ -16,16 +16,18 @@ banner-desc: # add banner description
 # Author settings
 author-pic: face.jpg # your photo
 author-name: Mahaveer Satra # your name
-about-author: An outdoor fanatic, eager to learn bits and pieces about our strange world # about author
+about-author: An outdoor fanatic, eager to learn bits and pieces about our strange world
+
+Enjoy the articles and projects and feel free to reach out to discuss any strange idea which can improve the world. We can render it to reality.  # about author
 email: mahaveersatra@gmail.com # your email
 phone: (XXX)-XXX-XXXX # your phone number
 website: https://mahaveersatra.github.io/ # you website
 
 # Social link
-google_url:    # add url link
+linkedin_url:  https://www.linkedin.com/in/mahaveer-satra/ # add url link
 twitter_url:   https://twitter.com/Mahaveersatra # add url link
 instagram_url: https://www.instagram.com/mahaveersatra/ # add url link
-pinterest_url: # add url link
+medium_url:    https://mahaveersatra.medium.com/ # add url link
 dribbble_url:  # add url link
 facebook_url:  https://www.facebook.com/mahaveer.satra # add url link
 
@@ -36,7 +38,7 @@ discus_identifier: # add your discus identifier.  Not your username.  To get thi
 mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Tracker
-analytics:
+analytics: G-289KNPEFLS
 
 # Paginate
 paginate: 12
