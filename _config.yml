@@ -16,7 +16,7 @@ banner-desc: # add banner description
 # Author settings
 author-pic: face.jpg # your photo
 author-name: Mahaveer Satra # your name
-about-author:|An outdoor fanatic, eager to learn bits and pieces about our strange world. Enjoy the articles and projects and feel free to reach out to discuss any strange idea which can improve the world. We can render it to reality.  # about author
+about-author: |An outdoor fanatic, eager to learn bits and pieces about our strange world. Enjoy the articles and projects and feel free to reach out to discuss any strange idea which can improve the world. We can render it to reality.  # about author
 email: mahaveersatra@gmail.com # your email
 phone: (XXX)-XXX-XXXX # your phone number
 website: https://mahaveersatra.github.io/ # you website
