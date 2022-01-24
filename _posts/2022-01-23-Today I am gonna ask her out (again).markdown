@@ -8,13 +8,13 @@ tag: [Butterflies, Crush, Anxious]
 ---
 <p align="center">
 Do you wanna go out with me, to skate on ice?<br>
-Sipping some hot chocolate with some flurries and fries.<br>
+Sipping hot chocolate with some flurries and fries.<br>
 </p>
 
 <p align="center">
 Am I being stupid to do this again?<br>
 Or is it just the butterflies all over my brain,<br>
-Feeling my heartbeat, It’s ready for the highs!<br>
+Feeling my heartbeat, it’s ready for the highs!<br>
 For an experience sweet and sexy and full of spice.<br>
 </p>
 
@@ -29,7 +29,7 @@ Your thoughts are so inspiring, to improve life’s quality.<br>
 There might be a que, for you and me and everybody new!<br>
 And we can always talk and smile and understand a few,<br>
 But why settle for good when we can have the best,<br>
-Rolling and laughing through this spirited quest<br>
+Rolling and laughing through this spirited quest.<br>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ But I am sure, we will be up stronger, happier and a bit more humble<br>
 
 <p align="center">
 So, do you wanna go out with me, to skate on ice?<br>
-Sipping some hot chocolate with some flurries and fries.<br>
+Sipping hot chocolate with some flurries and fries.<br>
 </p>
 
 > {:.verse}
